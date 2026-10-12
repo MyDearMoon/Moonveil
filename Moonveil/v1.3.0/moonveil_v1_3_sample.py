@@ -6,7 +6,7 @@ branches, function calls, exception handling, nested state, and string/constant
 handling without using filesystem, network, or process-control behavior.
 """
 
-VERSION = "1.4.0"
+VERSION = "1.3.0"
 PAYLOAD = (
     "moonveil",
     "lazy",
